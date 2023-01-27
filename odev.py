@@ -42,5 +42,6 @@ elif veri=="4":
 	else:
 		print("yanlış seçim:(program kapanıyor...)"
 			quit()
+			
 	
 	
